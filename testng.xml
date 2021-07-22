@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<suite name="LoanDepartment">
+
+<listeners>
+<listener class-name="Test.Listeners"/>
+</listeners>
+
+
+
+  <test name="PersonalLoan">
+  <parameter name="URL" value="personalloan.com"/>
+  
+  
+    <classes>
+      
+      <class name="Test.day1">
+      <methods>
+      <include name="test"/>
+      </methods>
+      </class>
+      
+      <class name="Test.day2"/>
+      <class name="Test.day4"/> 
+   
+  </classes>
+  </test> <!-- Test -->
+  
+  <test name="carloan">
+   <classes>
+     <class name="Test.day3">
+     
+         <methods>
+              <exclude name="Mobilecarloan"/>
+         </methods>>
+      
+      </class>
+   </classes>
+  </test>
+  
+</suite> <!-- Suite -->

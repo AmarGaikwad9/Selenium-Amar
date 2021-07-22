@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="13" passed="11" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-17T19:46:15 IST" name="LoanDepartment" finished-at="2021-07-17T19:46:15 IST" duration-ms="213">
+    <groups>
+      <group name="ST">
+        <method signature="day2.loan()[pri:0, instance:Test.day2@5fd4f8f5]" name="loan" class="Test.day2"/>
+        <method signature="day4.Mobileloginhomeloan()[pri:0, instance:Test.day4@696da30b]" name="Mobileloginhomeloan" class="Test.day4"/>
+      </group> <!-- ST -->
+    </groups>
+    <test started-at="2021-07-17T19:46:15 IST" name="PersonalLoan" finished-at="2021-07-17T19:46:15 IST" duration-ms="75">
+      <class name="Test.day1">
+        <test-method signature="test()[pri:0, instance:Test.day1@378542de]" started-at="2021-07-17T19:46:15 IST" name="test" finished-at="2021-07-17T19:46:15 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method is-config="true" signature="lastExecution()[pri:0, instance:Test.day1@378542de]" started-at="2021-07-17T19:46:15 IST" name="lastExecution" finished-at="2021-07-17T19:46:15 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lastExecution -->
+      </class> <!-- Test.day1 -->
+      <class name="Test.day2">
+        <test-method is-config="true" signature="Prerequsite()[pri:0, instance:Test.day2@5fd4f8f5]" started-at="2021-07-17T19:46:15 IST" name="Prerequsite" finished-at="2021-07-17T19:46:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Prerequsite -->
+        <test-method signature="Aloan()[pri:0, instance:Test.day2@5fd4f8f5]" started-at="2021-07-17T19:46:15 IST" name="Aloan" finished-at="2021-07-17T19:46:15 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Aloan -->
+        <test-method signature="loan()[pri:0, instance:Test.day2@5fd4f8f5]" started-at="2021-07-17T19:46:15 IST" name="loan" finished-at="2021-07-17T19:46:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loan -->
+      </class> <!-- Test.day2 -->
+      <class name="Test.day4">
+        <test-method is-config="true" signature="beverymethod()[pri:0, instance:Test.day4@696da30b]" started-at="2021-07-17T19:46:15 IST" name="beverymethod" finished-at="2021-07-17T19:46:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beverymethod -->
+        <test-method signature="APILoginhomeloan()[pri:0, instance:Test.day4@696da30b]" started-at="2021-07-17T19:46:15 IST" name="APILoginhomeloan" finished-at="2021-07-17T19:46:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APILoginhomeloan -->
+        <test-method signature="Mobileloginhomeloan()[pri:0, instance:Test.day4@696da30b]" started-at="2021-07-17T19:46:15 IST" name="Mobileloginhomeloan" finished-at="2021-07-17T19:46:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Mobileloginhomeloan -->
+        <test-method is-config="true" signature="beverymethod()[pri:0, instance:Test.day4@696da30b]" started-at="2021-07-17T19:46:15 IST" name="beverymethod" finished-at="2021-07-17T19:46:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beverymethod -->
+        <test-method is-config="true" signature="beverymethod()[pri:0, instance:Test.day4@696da30b]" started-at="2021-07-17T19:46:15 IST" name="beverymethod" finished-at="2021-07-17T19:46:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beverymethod -->
+        <test-method signature="Webloginhomeloan()[pri:0, instance:Test.day4@696da30b]" started-at="2021-07-17T19:46:15 IST" name="Webloginhomeloan" finished-at="2021-07-17T19:46:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Webloginhomeloan -->
+      </class> <!-- Test.day4 -->
+    </test> <!-- PersonalLoan -->
+    <test started-at="2021-07-17T19:46:15 IST" name="carloan" finished-at="2021-07-17T19:46:15 IST" duration-ms="37">
+      <class name="Test.day1">
+        <test-method is-config="true" signature="Afsuite()[pri:0, instance:Test.day1@378542de]" started-at="2021-07-17T19:46:15 IST" name="Afsuite" finished-at="2021-07-17T19:46:15 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Afsuite -->
+      </class> <!-- Test.day1 -->
+      <class name="Test.day3">
+        <test-method is-config="true" signature="Bfsuite()[pri:0, instance:Test.day3@57d7f8ca]" started-at="2021-07-17T19:46:15 IST" name="Bfsuite" finished-at="2021-07-17T19:46:15 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bfsuite -->
+        <test-method signature="DataPro(java.lang.String,java.lang.String)[pri:0, instance:Test.day3@57d7f8ca]" started-at="2021-07-17T19:46:15 IST" name="DataPro" data-provider="getData" finished-at="2021-07-17T19:46:15 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firstusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pswd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataPro -->
+        <test-method signature="DataPro(java.lang.String,java.lang.String)[pri:0, instance:Test.day3@57d7f8ca]" started-at="2021-07-17T19:46:15 IST" name="DataPro" data-provider="getData" finished-at="2021-07-17T19:46:15 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[secondusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pswdsecond]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataPro -->
+        <test-method signature="DataPro(java.lang.String,java.lang.String)[pri:0, instance:Test.day3@57d7f8ca]" started-at="2021-07-17T19:46:15 IST" name="DataPro" data-provider="getData" finished-at="2021-07-17T19:46:15 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[thirdusername]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[thirdpswd]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DataPro -->
+        <test-method signature="Webcarloan()[pri:0, instance:Test.day3@57d7f8ca]" started-at="2021-07-17T19:46:15 IST" name="Webcarloan" finished-at="2021-07-17T19:46:15 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Webcarloan -->
+        <test-method signature="APIcarloan()[pri:0, instance:Test.day3@57d7f8ca]" started-at="2021-07-17T19:46:15 IST" name="APIcarloan" finished-at="2021-07-17T19:46:15 IST" depends-on-methods="Test.day3.Webcarloan" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- APIcarloan -->
+      </class> <!-- Test.day3 -->
+    </test> <!-- carloan -->
+  </suite> <!-- LoanDepartment -->
+</testng-results>

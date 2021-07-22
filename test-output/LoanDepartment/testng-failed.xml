@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [LoanDepartment]">
+  <test thread-count="5" name="carloan(failed)">
+    <classes>
+      <class name="Test.day3">
+        <methods>
+          <include name="Webcarloan"/>
+          <include name="Bfsuite"/>
+          <include name="APIcarloan"/>
+        </methods>
+      </class> <!-- Test.day3 -->
+    </classes>
+  </test> <!-- carloan(failed) -->
+</suite> <!-- Failed suite [LoanDepartment] -->

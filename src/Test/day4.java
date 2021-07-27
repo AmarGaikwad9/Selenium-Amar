@@ -29,5 +29,11 @@ public class day4 {
 	   System.out.println("API homeloan");
    }
 
+   @Test
+   public void GitAPILoginhomeloan() 
+   {
+	   System.out.println("GIT API homeloan");
+   }
+
 }
 

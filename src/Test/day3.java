@@ -15,6 +15,7 @@ public class day3 {
 	public void Webcarloan() 
 	{
 		System.out.println("webcarloan ");
+		System.out.println("webcarloangit");
 		
 		//System.out.println(urlname);
 	}

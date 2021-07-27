@@ -8,6 +8,7 @@ public class day2 {
 	@Test(groups= {"ST"})
 	public void loan() {
 		System.out.println("approved");
+		System.out.println("approvedgit");
 	}
 
 	@Test(timeOut=4000)

@@ -10,6 +10,7 @@ public class day1 {
 	public void lastExecution() {
 		
 		System.out.println("i will execute last");
+		System.out.println("i will execute last");
 	}
 	
 	
